@@ -50,7 +50,7 @@ models/saved_weights/disease_predictor.pt
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Shagunnn25/healthguard-ai.git
+git clone https://github.com/Chahak1705/healthguard-ai.git
 cd healthguard-ai
 ```
 
