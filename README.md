@@ -83,6 +83,15 @@ cd hg-frontend
 npm install
 cd ..
 ```
+### 7. Clean symptom data
+```bash
+python -m scripts.data_cleaning.clean_symptoms
+```
+
+### 8. Build QA Engine (FAISS index)
+```bash
+python -m scripts.training.build_qa_engine
+```
 
 ---
 
