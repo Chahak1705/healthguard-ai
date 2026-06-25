@@ -173,7 +173,7 @@ HealthGuard AI is for informational purposes only. It is **not a substitute for 
 
 ---
 ## 👩‍💻 My Contributions (Chahak Porwal)
-- Co-trained BioBERT classifier across 770+ disease categories.
+- Fine tuned BioBERT classifier across 770+ disease categories.
 - Set up FAISS vector search pipeline for medical Q&A retrieval.
 - Integrated EasyOCR for prescription text extraction and summarization.
 - Configured Ollama with phi3:mini for local LLM response generation.
