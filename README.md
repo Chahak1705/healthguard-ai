@@ -163,6 +163,13 @@ Training achieved ~81.6% validation accuracy over 5 epochs on 770+ disease class
 HealthGuard AI is for informational purposes only. It is **not a substitute for professional medical advice**. Always consult a qualified physician for diagnosis and treatment.
 
 ---
+## 👩‍💻 My Contributions (Chahak Porwal)
+- Co-trained BioBERT classifier across 770+ disease categories.
+- Set up FAISS vector search pipeline for medical Q&A retrieval.
+- Integrated EasyOCR for prescription text extraction and summarization.
+- Configured Ollama with phi3:mini for local LLM response generation.
+- Built and structured FastAPI backend with all route integrations.
+- Cleaned and preprocessed medical datasets for model training.
 
 ## 👩‍💻 Built by
 
